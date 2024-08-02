@@ -1,0 +1,12 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'layout/navigation';
+@import 'layout/forms';
+@import 'layout/testimonials';
+
+@import 'components/buttons';
+@import 'components/carousel';
+@import 'components/card';

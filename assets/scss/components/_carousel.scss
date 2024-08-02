@@ -1,0 +1,16 @@
+.carousel-item{
+    height: 500px;
+}
+ 
+.carousel-item img{
+    height: 100%;
+    background-size: contain;
+    object-fit: cover;
+}
+ 
+@media screen and (max-width:600px) {
+    .carousel-item{
+         height: 300px;
+    }
+ 
+}
